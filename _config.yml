@@ -6,9 +6,9 @@ color:
   saturation: 0.14655170124024153
   rhythmicContrast: 0.45313094090670347
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
 name: Poly School
