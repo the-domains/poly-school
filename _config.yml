@@ -1,4 +1,3 @@
-layout_spectrum: 0.3829775517806411
 typography_spectrum: 0.9182393404189497
 color:
   brandStrength: 0.7588810990564525
@@ -11,5 +10,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.3829775517806411
 name: Poly School
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ba4d160-2347-46de-b4a1-34d3e4fff505.png'
 title: Learn something interesting. Teach something interesting.
