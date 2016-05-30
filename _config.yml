@@ -11,6 +11,8 @@ color:
     - '#5C6B73'
     - '#253237'
 layout_spectrum: 0.3829775517806411
+analytics:
+  google: UA-78481183-1
 author:
   name: Ryan Nurmela
   email: ryannurmela@gmail.com
